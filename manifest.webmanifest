@@ -1,0 +1,12 @@
+{
+  "name": "WUSE Tattoo",
+  "short_name": "WUSE Tattoo",
+  "description": "Salon de tatouage réalisme noir et gris à Carnoux-en-Provence.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "fr",
+  "orientation": "portrait-primary"
+}
